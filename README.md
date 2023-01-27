@@ -15,7 +15,7 @@
 
 ## links
 
-- URL do site ao vivo: 
+- URL do site ao vivo: https://leonardoschuquel.github.io/analsador_de_numeros/
 - URL do GitHub: https://github.com/LeonardoSchuquel
 
 ## Autor
